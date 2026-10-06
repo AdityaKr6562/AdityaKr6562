@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+assets/source-photo.jpg
+assets/debug-foreground.png
+assets/source-prepped.png
+
+README.backup.md

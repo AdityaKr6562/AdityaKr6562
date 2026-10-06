@@ -1,0 +1,206 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="490"
+height="450"
+viewBox="0 0 490 450">
+
+<style>
+
+.card {
+    fill: #0d1117;
+    stroke: #30363d;
+    stroke-width: 1.5;
+}
+
+.text {
+    font-family: "Courier New", monospace;
+}
+
+.header {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.label {
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.value {
+    font-size: 15px;
+}
+
+.line {
+    opacity: 0;
+    animation: appear 0.45s ease-out forwards;
+}
+
+@keyframes appear {
+    from {
+        opacity: 0;
+        transform: translateX(-12px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+</style>
+
+<rect
+    class="card"
+    x="1"
+    y="1"
+    width="488"
+    height="448"
+    rx="10"/>
+
+<circle cx="22" cy="24" r="5" fill="#3fb950"/>
+
+<text
+    class="text header line"
+    x="38"
+    y="31"
+    fill="#58a6ff"
+    style="animation-delay:0s">
+    ADITYA@GITHUB
+</text>
+
+<line
+    x1="20"
+    y1="48"
+    x2="470"
+    y2="48"
+    stroke="#30363d"/>
+
+
+<text
+    class="text label line"
+    x="25"
+    y="80"
+    fill="#8b949e"
+    style="animation-delay:0.15s">
+    LANGUAGES
+</text>
+
+<text
+    class="text value line"
+    x="25"
+    y="102"
+    fill="#c9d1d9"
+    style="animation-delay:0.27s">
+    Python · Java · C · C++
+</text>
+
+<text
+    class="text label line"
+    x="25"
+    y="136"
+    fill="#8b949e"
+    style="animation-delay:0.39s">
+    ML / AI
+</text>
+
+<text
+    class="text value line"
+    x="25"
+    y="158"
+    fill="#c9d1d9"
+    style="animation-delay:0.51s">
+    ML · DL · CV · NLP · CNNs
+</text>
+
+<text
+    class="text label line"
+    x="25"
+    y="192"
+    fill="#8b949e"
+    style="animation-delay:0.63s">
+    AI TECHNIQUES
+</text>
+
+<text
+    class="text value line"
+    x="25"
+    y="214"
+    fill="#c9d1d9"
+    style="animation-delay:0.75s">
+    TF-IDF · OCR · RAG · LLM Eval
+</text>
+
+<text
+    class="text label line"
+    x="25"
+    y="248"
+    fill="#8b949e"
+    style="animation-delay:0.87s">
+    FRAMEWORKS
+</text>
+
+<text
+    class="text value line"
+    x="25"
+    y="270"
+    fill="#c9d1d9"
+    style="animation-delay:0.99s">
+    PyTorch · TensorFlow · Keras
+</text>
+
+<text
+    class="text label line"
+    x="25"
+    y="304"
+    fill="#8b949e"
+    style="animation-delay:1.11s">
+    LIBRARIES
+</text>
+
+<text
+    class="text value line"
+    x="25"
+    y="326"
+    fill="#c9d1d9"
+    style="animation-delay:1.23s">
+    Scikit-learn · OpenCV · Pandas
+</text>
+
+<text
+    class="text label line"
+    x="25"
+    y="360"
+    fill="#8b949e"
+    style="animation-delay:1.35s">
+    WEB / DATABASE
+</text>
+
+<text
+    class="text value line"
+    x="25"
+    y="382"
+    fill="#c9d1d9"
+    style="animation-delay:1.47s">
+    HTML · CSS · JS · React · SQL
+</text>
+
+<text
+    class="text label line"
+    x="25"
+    y="416"
+    fill="#8b949e"
+    style="animation-delay:1.59s">
+    TOOLS
+</text>
+
+<text
+    class="text value line"
+    x="25"
+    y="438"
+    fill="#c9d1d9"
+    style="animation-delay:1.71s">
+    Git · GitHub · Linux · Ollama
+</text>
+
+</svg>
