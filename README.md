@@ -6,7 +6,7 @@
 
 <br><br>
 
-<h3><code>aditya@github ~ $ whoami</code></h3>
+
 
 <table>
 <tr>
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<h3><code>aditya@github ~ $ whoami</code></h3>
+
 
 </div>
 <div align="center">
@@ -80,6 +80,9 @@ AI / Machine Learning
 ├── Deep Learning
 ├── NLP
 ├── Computer Vision
+├── CNNs
+├── TF-IDF
+├── OCR
 ├── RAG
 ├── LLM Evaluation
 └── Prompt Engineering
@@ -91,7 +94,8 @@ Frameworks & Libraries
 ├── Scikit-learn
 ├── OpenCV
 ├── Pandas
-└── NumPy
+├── NumPy
+└── NLTK
 
 AI / Developer Tools
 ├── Ollama
@@ -109,7 +113,8 @@ Web / Database
 ├── React
 ├── SQL
 └── MongoDB
-$ ls projects/
+
+
 🤖 Local LLM Automation Assistant
 Python · Ollama · RAG
 An offline AI assistant for email summarization and workflow
@@ -173,7 +178,7 @@ $ currently-learning
 → Data Structures & Algorithms
 → Cloud / AWS
 
-$ achievements
+
 🏆 Rank 25 — Bitwars 2.0 Competitive Coding Event
 🎯 Completed multiple AI/ML and software development projects
 $ interests
