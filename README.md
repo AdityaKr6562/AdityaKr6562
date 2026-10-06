@@ -23,25 +23,7 @@
 </table>
 
 </div>
-<div align="center">
 
-<h3><code>aditya@github ~ $ ./profile.sh</code></h3>
-
-<table>
-<tr>
-
-<td valign="top">
-<img src="./aditya-ascii.svg" width="370">
-</td>
-
-<td valign="top">
-<img src="./info-card.svg" width="490">
-</td>
-
-</tr>
-</table>
-
-</div>
 
 <br>
 
