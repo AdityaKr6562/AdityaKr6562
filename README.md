@@ -113,9 +113,9 @@ Web / Database
 ├── React
 ├── SQL
 └── MongoDB
-
+```
 $ ls projects/
-
+```text
 🤖 Local LLM Automation Assistant
 Python · Ollama · RAG
 An offline AI assistant for email summarization and workflow
@@ -158,6 +158,8 @@ as Spam or Ham.
 Python · OCR · Text-to-Speech
 Application that extracts text from images and converts
 the extracted text into spoken output.
+```
+```text
 $ experience
 AI Intern — Avantel
 Jun 2025 – Jul 2025
@@ -182,6 +184,8 @@ $ currently-learning
 
 🏆 Rank 25 — Bitwars 2.0 Competitive Coding Event
 🎯 Completed multiple AI/ML and software development projects
+```
+```text
 $ interests
 AI / ML
 Guitar
