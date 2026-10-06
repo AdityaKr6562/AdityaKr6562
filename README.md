@@ -114,6 +114,7 @@ Web / Database
 ├── SQL
 └── MongoDB
 
+$ ls projects/
 
 🤖 Local LLM Automation Assistant
 Python · Ollama · RAG
