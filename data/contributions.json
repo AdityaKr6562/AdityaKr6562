@@ -1059,7 +1059,7 @@
     },
     {
       "date": "2026-10-15",
-      "level": 0
+      "level": 1
     },
     {
       "date": "2025-10-17",
@@ -1267,6 +1267,10 @@
     },
     {
       "date": "2026-10-09",
+      "level": 1
+    },
+    {
+      "date": "2026-10-16",
       "level": 1
     },
     {
@@ -1479,8 +1483,8 @@
     }
   ],
   "stats": {
-    "calendar_days": 369,
-    "active_days": 16,
+    "calendar_days": 370,
+    "active_days": 18,
     "current_streak": 1,
     "longest_streak": 2
   }
