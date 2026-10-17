@@ -4642,6 +4642,18 @@ viewBox="0 0 860 190">
 <title>2026-10-16: level 1</title>
 </rect>
 
+<rect
+    class="cell"
+    x="946"
+    y="120"
+    width="13"
+    height="13"
+    rx="3"
+    fill="#161b22"
+    style="animation-delay:1.375s">
+<title>2026-10-17: level 0</title>
+</rect>
+
 <text
     class="label"
     x="700"
@@ -4701,7 +4713,7 @@ viewBox="0 0 860 190">
     x="45"
     y="180">
     18 active contribution days ·
-    current streak: 1 ·
+    current streak: 0 ·
     longest streak: 2
 </text>
 </svg>

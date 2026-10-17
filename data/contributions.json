@@ -1480,12 +1480,16 @@
     {
       "date": "2026-10-10",
       "level": 1
+    },
+    {
+      "date": "2026-10-17",
+      "level": 0
     }
   ],
   "stats": {
-    "calendar_days": 370,
+    "calendar_days": 371,
     "active_days": 18,
-    "current_streak": 1,
+    "current_streak": 0,
     "longest_streak": 2
   }
 }
